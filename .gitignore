@@ -1,0 +1,12 @@
+*~
+.*
+!.git*
+.git/
+*.tar.*
+*.orig
+tags
+astyle.sh
+cscope.*
+*.part
+*.o
+defenddns
